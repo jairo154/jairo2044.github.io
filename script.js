@@ -5,8 +5,8 @@ let fontSize = 2
 
 let messages = [
   '¿Segura?',
-  'Sonrie xfa',
-  'Eres fuerte',
+  'mmmmm',
+  'No te creo',
   'Piensalo',
   'segura¡¡¡¡...'
 ]
