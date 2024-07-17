@@ -8,7 +8,7 @@ let messages = [
   'Sonrie xfa',
   'Eres fuerte',
   'Piensalo',
-  'dayuuuuu'
+  'segura¡¡¡¡...'
 ]
 
 buttonNo.addEventListener('click', () => {
